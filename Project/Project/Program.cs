@@ -8,7 +8,7 @@ namespace Project
         {
             PrintMethod();
             PrintMethod();
-            PrintMethod();
+           
         }
         static void PrintMethod()
         {
