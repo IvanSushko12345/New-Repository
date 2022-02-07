@@ -7,6 +7,8 @@ namespace Project
         static void Main(string[] args)
         {
             PrintMethod();
+            PrintMethod();
+            PrintMethod();
         }
         static void PrintMethod()
         {
