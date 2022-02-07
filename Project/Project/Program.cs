@@ -6,7 +6,11 @@ namespace Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PrintMethod();
+        }
+        static void PrintMethod()
+        {
+            Console.WriteLine("Hello World!"); 
         }
     }
 }
